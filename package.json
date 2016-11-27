@@ -1,0 +1,23 @@
+{
+  "name": "gax",
+  "version": "1.0.0",
+  "description": "easy file storage",
+  "main": "index.js",
+  "bin": {
+    "gax": "./bin/import-gulp.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "babel-preset-es2015-node": "^6.1.1",
+    "babel-preset-stage-0": "^6.16.0",
+    "chai": "^3.5.0",
+    "chai-fs-latest": "^0.1.0",
+    "gulp": "^3.9.1",
+    "gulp-babel": "^6.1.2",
+    "gulp-rename": "^1.2.2",
+    "mocha": "^3.2.0"
+  },
+  "dependencies": {}
+}
