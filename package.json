@@ -4,7 +4,7 @@
   "description": "easy file storage",
   "main": "index.js",
   "bin": {
-    "gax": "./bin/import-gulp.js"
+    "gax": "./bin/gax.js"
   },
   "keywords": [],
   "author": "",

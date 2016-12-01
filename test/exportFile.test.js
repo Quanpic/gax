@@ -16,7 +16,6 @@ describe('exportFile()', () => {
     e('testFile.md');
   });
 
-
   afterEach((done) => {
     fs.unlink(path.resolve('files/testFile'), (err) => {
       if (err) {
